@@ -1,0 +1,10 @@
+const myName = "Igor";
+console.log(myName);
+const mySurname = "Zaytsev";
+console.log(mySurname);
+const myFavoriteDrink = "wine";
+console.log(myFavoriteDrink);
+const myFavoriteAnimal = "cat";
+console.log(myFavoriteAnimal);
+const myFavoriteProgrammingLanguage = "java sctipt";
+console.log(myFavoriteProgrammingLanguage);
